@@ -12,3 +12,12 @@ public static void main(String[] args) {
 
 
 }
+
+
+public class PrintName {
+    public static void main(String[] args) {
+        String name = "Hamada";
+
+        // Print to console
+        System.out.println("My name is" + name);
+}
