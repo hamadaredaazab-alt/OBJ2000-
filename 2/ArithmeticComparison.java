@@ -1,21 +1,17 @@
 package 2;
 
 public class ArithmeticComparison {
- 
-    public static void main(String[] args) {
+  public static void main(String[] args) {
 
-        int a = 10;
-        int b = 5;
+        int x = 4;
+        int y = 2;
 
-        // Arithmetic operations
-        System.out.println("a + b = " + (a + b));
-        System.out.println("a * b = " + (a * b));
+        System.out.println(x + y);
+        System.out.println(x - y);
 
-        // Comparison operations
-         //true
-        System.out.println("a > b = " + (a > b));
-         //false
-        System.out.println("a == b = " + (a == b));
+        System.out.println(x > y);
+        System.out.println(x == y);
     }
+
 }
 
