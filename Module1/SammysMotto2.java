@@ -1,3 +1,4 @@
+package Module1;
 public class SammysMotto2 {
       public static void main(String[] args) {
         System.out.println("SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS");
