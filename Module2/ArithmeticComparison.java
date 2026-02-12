@@ -1,4 +1,4 @@
-package 2;
+package Module2;
 
 public class ArithmeticComparison {
   public static void main(String[] args) {
