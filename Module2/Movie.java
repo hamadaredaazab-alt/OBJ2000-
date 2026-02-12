@@ -1,3 +1,4 @@
+package Module2;
 
 public class Movie {
      private String name;
